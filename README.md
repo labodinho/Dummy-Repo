@@ -1,8 +1,12 @@
 # Dummy-Repo
 This is a test file to test our git commands and collaborative skills.
 Follow this steps....
-1. Make a pull request to this repo, create a div(division), input your name(as seen in the index.html file) and deploy back to this repo. 
-2. After that i will create a new branch, deploy the file with another changes and deploy back.
-3. You will create a new file of index.html, checkout to a new branch you will create and deploy to your own branch
+1. Fork and clone this repo.
+2. Create a div(division) and input your name(as seen in the index.html file).
+3. Create a new branch and push to the new branch created.
+4. Then make a pull request(on github site) and wait to be merged. 
+5. After being merged, make a pull request (on gitbash/command terminal) to check  for changes.
+6. Create a new file of main.js (write any function or variable, anything at all).
+7. Repeat by adding, commiting,pushing and make pull request(on gitbash/command terminal)
 
-In all you do, do not merge, just make a commit.
+In all you do, do not merge.
