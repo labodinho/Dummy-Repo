@@ -6,7 +6,5 @@ Follow this steps....
 3. Create a new branch and push to the new branch created.
 4. Then make a pull request(on github site) and wait to be merged. 
 5. After being merged, make a pull request (on gitbash/command terminal) to check  for changes.
-6. Create a new file of main.js (write any function or variable, anything at all).
-7. Repeat by adding, commiting,pushing and make pull request(on gitbash/command terminal)
 
 In all you do, do not merge.
